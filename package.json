@@ -7,7 +7,8 @@
     "test": "npm-run-all test:js",
     "test:js": "globstar jshint *.js",
     "init-project": "npm install && touch index.js",
-    "build": "npm-run-all test"
+    "build": "npm-run-all test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
