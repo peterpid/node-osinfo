@@ -1,5 +1,5 @@
 {
-  "name": "node-time",
+  "name": "node-osinfo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterpid/node-time.git"
+    "url": "git+https://github.com/peterpid/node-osinfo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peterpid/node-time/issues"
+    "url": "https://github.com/peterpid/node-osinfo/issues"
   },
-  "homepage": "https://github.com/peterpid/node-time#readme",
+  "homepage": "https://github.com/peterpid/node-osinfo#readme",
   "devDependencies": {
     "globstar": "^1.0.0",
     "jshint": "^2.9.5",

@@ -1,1 +1,1 @@
-# node-time
+# node-osinfo
